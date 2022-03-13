@@ -16,7 +16,7 @@ Equally it should be possible to set the frequency up to 12.5Mhz, but I only hav
 application and an RP2040 so can't verify signals above around 250Khz. See https://github.com/fhdm-dev/scoppy/
 for further details.
 
-So for under £20 now have a squarewave generator and oscilloscope for basic testing with minimal hardware.
+## So for under £20 I now have a squarewave generator and oscilloscope for basic testing with minimal hardware.
 
 ![Image (3)](https://user-images.githubusercontent.com/30411837/158058018-6ba69ec9-be68-4abf-aebd-8aea493093e8.jpeg)
 ![Image (2)](https://user-images.githubusercontent.com/30411837/158058055-a5f1c5da-77f5-4df7-a934-13947e2c6e24.jpeg)
