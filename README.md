@@ -4,11 +4,12 @@ Streams 10 bits to a single pin in a single cycle under DMA control - 10 bits is
 frequency of 125Mhz.
 
 # Controls
-  Button a - steps through the duty cycles available
-  Buttons b & c - select the frequency increment, either 1Khz or 10Khz
-  Button Up - increases the frequency by the increment
-  Button Down - decreases the frequency by the increment
+  - Button a - steps through the duty cycles available
+  - Buttons b & c - select the frequency increment, either 1Khz or 10Khz
+  - Button Up - increases the frequency by the increment
+  - Button Down - decreases the frequency by the increment
 
+# Conclusion
 Although not tested, it should be possible to set the frequency down to 200hz if the frequency increment
 was modified.  Lack of available buttons limited this.
 
