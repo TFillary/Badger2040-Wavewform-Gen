@@ -1,7 +1,7 @@
 # Square wave generator with duty cycle control for Rasberry Pi Pico
 # Uses Pimoroni Badger 2040 screen and the Qw/ST connector to access PIO pins
 # Streams 10 bits to a single pin - 10 bits used for duty cycle manipulation, hence the maximum frequency
-# is 1/10 of the pico frequency of 125Jhz.
+# is 1/10 of the pico frequency of 125Mhz.
 #
 # Button a - steps through the duty cycles available
 # Buttons b & c - select the frequency increment, either 1Khz or 10Khz
